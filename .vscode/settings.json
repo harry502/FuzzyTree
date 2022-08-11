@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "vector": "cpp",
+        "set": "cpp",
+        "fstream": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "__tree": "cpp",
+        "algorithm": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "__node_handle": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
